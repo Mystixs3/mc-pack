@@ -1,6 +1,6 @@
 name = "Carpet"
 filename = "fabric-carpet-1.19.1-1.4.83+v220727.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
