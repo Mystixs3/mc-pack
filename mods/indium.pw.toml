@@ -1,0 +1,8 @@
+name = "Indium"
+filename = "indium-1.0.7+mc1.19.jar"
+side = "client"
+
+[download]
+url = "https://github.com/comp500/Indium/releases/download/1.0.7%2Bmc1.19/indium-1.0.7+mc1.19.jar"
+hash-format = "sha1"
+hash = "1f97081fa8da5e2876481da2917c76dcf689382b"

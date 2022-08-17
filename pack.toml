@@ -1,0 +1,13 @@
+name = "mc-pack"
+author = "Mystixs3"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "00e8d0b41aa6203937444b574688e5098f4132072688110b12d11625d86d377a"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.17.3"
